@@ -7,4 +7,4 @@ ESM Module Scope because I thought this idea was going somewhere else, I thought
 maybe there might be some options with `globalThis` or something, but I did not
 have a concrete idea and it ended up being this.
 
-`node .`
+`node .` or `python3 -m http.server` and open http://localhost:8000
